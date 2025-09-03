@@ -28,3 +28,22 @@ The project is organized into the following key directories:
 git clone https://github.com/<your-username>/alx-listing-app.git
 cd alx-listing-app
 ```
+
+### 2. Install Dependencies
+
+- Using **npm**:
+  ```bash
+  npm install
+  ```
+
+### 3. Start the Development Server
+
+- Using **npm**:
+  ```bash
+  npm run dev
+  ```
+
+### 4. Open the App in Your Browser
+
+- Navigate to:  
+  [http://localhost:3000](http://localhost:3000)
