@@ -5,7 +5,7 @@ export default function Home() {
     <main className="p-6">
       <h1 className="text-3xl font-bold">Welcome to ALX Listing App</h1>
       <p className="mt-4">
-        This is the starting point of your Airbnb clone project.
+        This is the starting point of my Airbnb project.
       </p>
     </main>
   );
